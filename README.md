@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/105453766/208395118-e5c6fb5c-f33b-4f46-afb1-5c67baf2d9a6.mp4
 
-# WAITERAPP 🤘
+# COFFEDelivery ☕
 
 Repositório criado exclusivamente para treinar boas práticas em NODE.JS + REACT + REACT NATIVE + REACT STYLED COMPONENTS + CONSUMO DE API + INTEGRAÇÃO COM BACKEND.
 
