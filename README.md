@@ -33,7 +33,3 @@ COFFEDelivery é um aplicativo composto por uma área de administração de caf�
 [Petrus Borges - Linkedin](https://www.linkedin.com/in/petrusborgesmachado/)
 
 [Petrus Borges - Portfólio](https://petrusborges.vercel.app)
-
-## 🎁 Gratidão
-
-- Agradecimento público a toda a equipe da [JStack](https://jstack.com.br) e em especial a [Mateus Silva](https://www.linkedin.com/in/mateusilva/?locale=pt_BR)! 🤘
